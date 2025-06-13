@@ -3,6 +3,7 @@ It is a simple ML and Deep Learning using LSTM model that can detect six human e
 
 
 # Requirements
+Make sure you have the required packages installed:
 pip install scikit-learn==1.3.2
 pip install streamlit numpy nltk
 pip install tensorflow==2.15.0
